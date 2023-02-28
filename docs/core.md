@@ -8,6 +8,7 @@ All Mycroft Skills and Plugins should work normally with OVOS-core.
 
 OVOS-core is fully modular. Furthermore, common components have been repackaged as plugins. That means it isn't just a great assistant on its own, but also a pretty small library!
 
+The documentation below for OVOS-core is under active development. While documentation is being updated, pull requests may have more up-to-date advice for setup than the steps outlined below.
 
 ## Getting Started
 
